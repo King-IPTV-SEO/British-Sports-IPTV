@@ -1,0 +1,6 @@
+{
+  "name": "British Sports IPTV",
+  "description": "Watch 20,000+ UK & international live sports channels, Premier League, movies, and TV in 4K Ultra HD with instant activation and zero buffering on Firestick, Smart TV, and mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
